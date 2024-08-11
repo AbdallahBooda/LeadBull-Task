@@ -1,0 +1,30 @@
+.pro-title {
+  line-height: 75px;
+  font-size: 64px;
+  font-weight: 600;
+  font-family: "Inter", sans-serif;
+  color: #027fca;
+}
+.pro-card {
+  background: linear-gradient(
+    146.79deg,
+    rgba(164, 0, 0, 0.4) -60.82%,
+    rgba(1, 65, 103, 0.4) 118.47%
+  );
+  color: #bbbbbb;
+  border-radius: 11.67px;
+  border: 0.73px solid #027fca;
+}
+.llc-text {
+  background: linear-gradient(
+    89.7deg,
+    #ff0000 35.95%,
+    #027fca 45.26%,
+    #027fca 123.29%
+  );
+
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  background-clip: text;
+  color: transparent;
+}

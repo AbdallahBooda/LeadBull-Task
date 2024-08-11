@@ -1,0 +1,17 @@
+.ser-client-title {
+  line-height: 75px;
+  font-size: 64px;
+  font-weight: 600;
+  /* font-family: "Inter", sans-serif; */
+  color: #027fca;
+}
+.ser-client-card {
+    border-left: 7px solid #027FCA !important;
+    border-right: 7px solid #027FCA !important;
+    /* border: 1px; */
+  border: none;
+  color: #fff;
+  border-radius: 13px;
+  background: linear-gradient(86.25deg, #53040B -5.42%, #0088D7 127.82%);
+
+}

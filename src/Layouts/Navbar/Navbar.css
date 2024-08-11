@@ -1,0 +1,40 @@
+.bg-navbar {
+  background-color: #000000;
+  opacity: 0.9;
+}
+.linkstyle {
+  color: #ffff;
+  font-weight: bold;
+ 
+}
+
+.linkstyle:hover {
+  border-bottom: 4px solid;
+  border-image: linear-gradient(86.48deg, #B10028 -5.25%, #027FCA 98.16%);
+  border-image-slice: 1;
+}
+.Book-an-appointment {
+  text-decoration-line: none;
+  color: white;
+  background: linear-gradient(86.25deg, #53040b -5.42%, #0088d7 127.82%);
+  padding-left: 19px;
+  padding-right: 19px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+  border-radius: 16px;
+  border: 1px solid;
+  border-color: aliceblue;
+}
+.login-link {
+  text-decoration-line: none;
+  color: white;
+  /* padding: 12px; */
+  padding-left: 19px;
+  padding-right: 19px;
+  padding-top: 12px;
+  padding-bottom: 12px;
+
+  border-radius: 16px;
+  border: 1px solid;
+  border-color: aliceblue;
+}
